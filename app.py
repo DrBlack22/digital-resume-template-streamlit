@@ -76,7 +76,7 @@ st.write(
 - ✔️ Proven track record of accurately documenting patient encounters
 - ✔️ Maintaining electronic medical records in various healthcare settings
 - ✔️ Proficient in medical terminology and adept at facilitating communication
--       between healthcare providers to ensure seamless patient care delivery
+-    between healthcare providers to ensure seamless patient care delivery
 """
 )
 
