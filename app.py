@@ -73,10 +73,10 @@ st.write('\n')
 st.subheader("Experience & Qulifications")
 st.write(
     """
-- ✔️ 7 Years expereince extracting actionable insights from data
-- ✔️ Strong hands on experience and knowledge in Python and Excel
-- ✔️ Good understanding of statistical principles and their respective applications
-- ✔️ Excellent team-player and displaying strong sense of initiative on tasks
+- ✔️ Proven track record of accurately documenting patient encounters
+- ✔️ Maintaining electronic medical records in various healthcare settings
+- ✔️ Proficient in medical terminology and adept at facilitating communication
+-    between healthcare providers to ensure seamless patient care delivery
 """
 )
 
