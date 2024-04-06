@@ -87,7 +87,7 @@ st.subheader("Hard Skills")
 st.write(
     """
 - ⏺️ Proficient in electronic medical record (EMR) systems
-- 🩺 Prescribing medication, interpreting test results, assessing symptoms, and diagnosing conditions
+- 🩺 Prescribing medication, assessing test results, symptoms, and conditions
 - 🖥️ Beginner level proficiency in various programming languages(cpp, python, html)
 - 👩‍💻 Time management, collaboration,  empathy and CRM 
 """
