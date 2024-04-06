@@ -12,24 +12,24 @@ profile_pic = current_dir / "assets" / "profile-pic.png"
 
 
 # --- GENERAL SETTINGS ---
-PAGE_TITLE = "Digital CV | John Doe"
+PAGE_TITLE = "Digital CV | Hammad Ahmad Zafar"
 PAGE_ICON = ":wave:"
-NAME = "John Doe"
+NAME = "Hammad Ahmad Zafar"
 DESCRIPTION = """
-Senior Data Analyst, assisting enterprises by supporting data-driven decision-making.
+Medical Scribe
 """
-EMAIL = "johndoe@email.com"
+EMAIL = "hammadahmadzafar471@gmail.com"
 SOCIAL_MEDIA = {
-    "YouTube": "https://youtube.com/c/codingisfun",
-    "LinkedIn": "https://linkedin.com",
-    "GitHub": "https://github.com",
+    "YouTube": "https://www.youtube.com/channel/UCEIS4WF50yzfnzA5Xkw1fsw",
+    "LinkedIn": "https://linkedin.com/in/hazafar",
+    "GitHub": "https://github.com/DrBlack22",
     "Twitter": "https://twitter.com",
 }
 PROJECTS = {
-    "🏆 Sales Dashboard - Comparing sales across three stores": "https://youtu.be/Sb0A9i6d320",
-    "🏆 Income and Expense Tracker - Web app with NoSQL database": "https://youtu.be/3egaMfE9388",
-    "🏆 Desktop Application - Excel2CSV converter with user settings & menubar": "https://youtu.be/LzCfNanQ_9c",
-    "🏆 MyToolBelt - Custom MS Excel add-in to combine Python & Excel": "https://pythonandvba.com/mytoolbelt/",
+    "🏆 Registered Medical  Practitioner(RMP)",
+    "🏆 Electronic Health Record(EHR)",
+    "🏆 Hospital Management System(HMS)",
+    "🏆 Confidentiality and Adherence to HIPAA regulations",
 }
 
 
@@ -137,7 +137,7 @@ st.write(
 
 # --- Projects & Accomplishments ---
 st.write('\n')
-st.subheader("Projects & Accomplishments")
+st.subheader("Skills and Certifications")
 st.write("---")
 for project, link in PROJECTS.items():
     st.write(f"[{project}]({link})")
