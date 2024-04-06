@@ -86,10 +86,10 @@ st.write('\n')
 st.subheader("Hard Skills")
 st.write(
     """
-- 👩‍💻 Programming: Python (Scikit-learn, Pandas), SQL, VBA
-- 📊 Data Visulization: PowerBi, MS Excel, Plotly
-- 📚 Modeling: Logistic regression, linear regression, decition trees
-- 🗄️ Databases: Postgres, MongoDB, MySQL
+- ⏺️ Proficient in electronic medical record (EMR) systems
+- 🩺 Prescribing medication, interpreting test results, assessing symptoms, and diagnosing conditions
+- 🖥️ Beginner level proficiency in various programming languages(cpp, python, html)
+- 👩‍💻 Time management, collaboration,  empathy and CRM 
 """
 )
 
