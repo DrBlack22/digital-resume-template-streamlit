@@ -125,5 +125,5 @@ st.write(
 st.write('\n')
 st.subheader("Skills and Certifications")
 st.write("---")
-for project, link in PROJECTS.items():
-    st.write(f"[{project}]({link})")
+for project, _ in PROJECTS.items():  # Change here
+    st.write(f"{project}")  # Change here
