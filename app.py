@@ -26,10 +26,10 @@ SOCIAL_MEDIA = {
     "Twitter": "https://twitter.com",
 }
 PROJECTS = {
-    "🏆 Registered Medical  Practitioner(RMP)",
-    "🏆 Electronic Health Record(EHR)",
-    "🏆 Hospital Management System(HMS)",
-    "🏆 Confidentiality and Adherence to HIPAA regulations",
+    "🏆 Registered Medical Practitioner(RMP)": "Link to RMP project",
+    "🏆 Electronic Health Record(EHR)": "Link to EHR project",
+    "🏆 Hospital Management System(HMS)": "Link to HMS project",
+    "🏆 Confidentiality and Adherence to HIPAA regulations": "Link to HIPAA project",
 }
 
 
